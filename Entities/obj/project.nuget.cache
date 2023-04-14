@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "290pctRValPKsY2bzMVPICY5S61o1sE/Zsakp23nVl1ofBLA7iiWJgr+AlO/Nk9i7SmiBPQfsEU+v3dU+omYPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafaelbrito\\source\\repos\\RAFAEL_BRITO_DR3_AT\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafaelbrito\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\rafaelbrito\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
